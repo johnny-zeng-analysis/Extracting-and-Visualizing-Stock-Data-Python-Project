@@ -9,27 +9,31 @@ Installed necessary Python packages essential for data analysis.
 
 Imported the required packages, laying the foundation for robust data processing and visualization.
 
-**3. TESLA Stock Data Extraction (yfinance):**
+**3. Define Graphing Function
+
+Created the make_graph function to visualize historical share prices and revenues for TESLA and GameStop, enhancing the analysis through insightful subplots.
+
+**4. TESLA Stock Data Extraction (yfinance):**
 
 Leveraged the powerful yfinance library to extract detailed historical stock data for TESLA, providing a comprehensive overview of its financial performance.
 
-**4. TESLA Revenue Data Extraction (Web Scraping):**
+**5. TESLA Revenue Data Extraction (Web Scraping):**
 
 Utilized web scraping techniques to gather historical revenue data for TESLA, enhancing the depth of the analysis.
 
-**5. GameStop Stock Data Extraction (yfinance):**
+**6. GameStop Stock Data Extraction (yfinance):**
 
 Employed yfinance once again to extract detailed historical stock data for GameStop, allowing for a comparative analysis with TESLA.
 
-**6. GameStop Revenue Data Extraction (Web Scraping):**
+**7. GameStop Revenue Data Extraction (Web Scraping):**
 
 Applied web scraping methodologies to obtain historical revenue data for GameStop, enabling a comprehensive evaluation of its financial trajectory.
 
-**7. Data Visualization for TESLA (make_graph function):**
+**8. Data Visualization for TESLA (make_graph function):**
 
 Leveraged the make_graph function to create insightful visualizations, offering a clear representation of TESLA's stock performance.
 
-**8. Data Visualization for GameStop (make_graph function):**
+**9. Data Visualization for GameStop (make_graph function):**
 
 Similarly, utilized the make_graph function to create visualizations for GameStop, providing a comparative analysis of its stock performance.
 
