@@ -9,7 +9,7 @@ Installed necessary Python packages essential for data analysis.
 
 Imported the required packages, laying the foundation for robust data processing and visualization.
 
-**3. Define Graphing Function
+**3. Define Graphing Function**
 
 Created the make_graph function to visualize historical share prices and revenues for TESLA and GameStop, enhancing the analysis through insightful subplots.
 
